@@ -1,0 +1,19 @@
+
+    // await page.waitForSelector(".blue-bold");
+    // let textmssge = await page.$(".blue-bold");
+
+    // // let textmssgeUrl =  await page.evaluate(function(ele){
+    // //     return ele.getAttribute("href")
+    // // } , textmssge);
+
+    // console.log(textmssgeUrl);
+
+
+    
+    // let ImageUrl = await page.evaluate(function(ele){
+    //         return ele.getAttribute("src")
+    //     } , AllImages[0])
+    
+    // console.log(ImageUrl);
+    
+    // await page.goto("https://www.nasa.gov/" + ImageUrl , {'waitUntil ' : 'domcontentloaded'});
